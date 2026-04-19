@@ -71,7 +71,6 @@ var companyName = domain.split('.')[0];
 </script>
 </body>
 </html>
-"+my_ai);
           
 	
 
